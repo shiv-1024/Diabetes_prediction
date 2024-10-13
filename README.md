@@ -19,11 +19,13 @@ The goal of this project is to build a predictive model that can accurately dete
 
 #Usage
 1.Run the Jupyter Notebook:
+    
     jupyter notebook notebooks/Diabetes_Prediction.ipynb
 
 2.Execute the code cells in the notebook to see the data analysis, preprocessing, and model training steps.
 
 3.Run the Python script: To use the trained model for predictions, you can execute the main.py file:
+   
     python main.py
 
 **Data**:
@@ -40,11 +42,13 @@ The goal of this project is to build a predictive model that can accurately dete
     Outcome: 1 if the patient has diabetes, 0 otherwise
 
 **Model**:
-  The model used in this project is a machine learning classification algorithm. Various algorithms were explored
+  The model used in this project is a machine learning classification algorithm.
+      
       **Support Vector Machine (SVM)**
 
 **Results**: 
   The performance of the model was evaluated using the following metrics:
+    
     **Accuracy: The percentage of correct predictions.**
         The Accuracy Score of the training data :79%
         The Accuracy Score of the testing data :73%
