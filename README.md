@@ -17,7 +17,7 @@ The goal of this project is to build a predictive model that can accurately dete
 - `main.py`: Script to run the prediction using the saved models.
 - `README.md`: Description of the project (this file).
 
-#Usage
+## Usage
 1.Run the Jupyter Notebook:
     
     jupyter notebook notebooks/Diabetes_Prediction.ipynb
@@ -41,12 +41,12 @@ The goal of this project is to build a predictive model that can accurately dete
     Age: Age (years)
     Outcome: 1 if the patient has diabetes, 0 otherwise
 
-**Model**:
+## Model:
   The model used in this project is a machine learning classification algorithm.
       
       Support Vector Machine (SVM)
 
-**Results**: 
+## Results: 
   The performance of the model was evaluated using the following metrics:
     
       Accuracy: The percentage of correct predictions.
