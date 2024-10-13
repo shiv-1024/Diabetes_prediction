@@ -44,12 +44,12 @@ The goal of this project is to build a predictive model that can accurately dete
 **Model**:
   The model used in this project is a machine learning classification algorithm.
       
-      **Support Vector Machine (SVM)**
+      Support Vector Machine (SVM)
 
 **Results**: 
   The performance of the model was evaluated using the following metrics:
     
-    **Accuracy: The percentage of correct predictions.**
+      Accuracy: The percentage of correct predictions.
         The Accuracy Score of the training data :79%
         The Accuracy Score of the testing data :73%
 
