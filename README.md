@@ -28,7 +28,7 @@ The goal of this project is to build a predictive model that can accurately dete
    
     python main.py
 
-**Data**:
+## Data:
   The dataset used in this project can be found at data/diabetes.csv. The data contains the following features:
 
     Pregnancies: Number of times pregnant
